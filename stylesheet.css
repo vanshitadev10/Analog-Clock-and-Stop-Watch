@@ -112,7 +112,6 @@
     position: absolute;
     z-index: 4;
     background-color: #955757;
-    color: #955757;
     bottom: 48%;
     left: 49.5%;
     height: 20%;
@@ -124,7 +123,6 @@
     position: absolute;
     z-index: 4;
     background-color: #955757;
-    color: #955757;
     bottom: 48%;
     left: 49.70%;
     height: 25%;
@@ -136,7 +134,6 @@
     position: absolute;
     z-index: 4;
     background-color: rgb(245, 12, 109);
-    color: rgb(245, 12, 109);
     bottom: 48%;
     left: 49.9%;
     height: 28%;
@@ -148,7 +145,6 @@
     position: absolute;
     z-index: 5;
     background-color: #834b4b;
-    color: #834b4b;
     bottom: 46%;
     left: 49%;
     height: 4%;
@@ -452,6 +448,7 @@ footer{
 
     .navbar .nav a{
         font-size: 1.5rem;
+        padding-left: 10px;
     }
 
     .img{
